@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Slava",
+    "version": "1.0",
+    "description": "Google Chrome extension that randomly chooses words on the user's webpage and translates them into Russian.",
+    "icons": {
+        "16" : "icons/icon16.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
